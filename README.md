@@ -1,7 +1,7 @@
 # liri-node-app
 This project was created by Jaime Halupka as a requirement for homework during University of Central Florida's Coding
 Bootcamp. 
-![Alt Text](https://gfycat.com/TenderSpotlessAustraliansilkyterrier)
+![Alt Text](https://thumbs.gfycat.com/TenderSpotlessAustraliansilkyterrier-size_restricted.gif)
 ![In Action](screenshot1.png "In Action")
 
 **Instructions**
